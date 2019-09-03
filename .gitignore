@@ -4,3 +4,5 @@ data/.~lock.ncis_bystate_bymonth_bytype.csv#
 inst/rawdata/.~lock*
 gunsales-local.Rproj
 *.Rproj
+.RData
+.Rhistory
